@@ -21,3 +21,5 @@ function iLoveTheBeatles(n) {
   } while (n < 15)
   return arr
 }
+
+console.log(iLoveTheBeatles(3))
